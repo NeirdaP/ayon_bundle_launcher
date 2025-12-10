@@ -1,0 +1,6 @@
+ayon-python-api
+PySide6
+qtpy
+qdarkstyle
+python-dotenv
+pyinstaller
